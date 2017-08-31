@@ -1,2 +1,0 @@
-# mysampleProject
-Devops Training
